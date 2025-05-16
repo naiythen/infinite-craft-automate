@@ -24,11 +24,11 @@ This Python script automates the process of discovering new elements in the popu
 ## Installation
 
 1.  **Install required Python packages:**
-     Find the directory where the UNEXTRACTED Folder is, then in that directory, right click and select "Open In Terminal"
-     Then run:
-     ```bash
-     pip install -r requirements.txt
-     ```
+    Find the directory where the UNEXTRACTED Folder is, then in that directory, right click and select "Open In Terminal"
+    Then run:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
@@ -82,6 +82,14 @@ This Python script automates the process of discovering new elements in the popu
         }
     }
     ```
+
+## Sharing Your Discoveries
+
+You can contribute your discovered elements and recipes from your `data.json` file to the community by importing your saves to:
+
+* [Infinite Craft Wiki & Browser](https://infinibrowser.wiki/)
+
+*(Note: This project is not affiliated with infinibrowser.wiki.)*
 
 ## Dependencies
 
